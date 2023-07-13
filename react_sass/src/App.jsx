@@ -6,7 +6,7 @@ import "./styles/components/app.sass"
 function App() {
   return (
     <div id="portifolio">
-      <h1>Ramon MCF</h1>
+      <h1>Ramon Colim</h1>
       <Sidebar/>
       <MainContent/>
     </div>
